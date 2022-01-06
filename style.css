@@ -95,3 +95,29 @@ h1{
     color: white;
     font-weight: 400;
 }
+footer {
+    text-align: center;
+    background-color: black;  
+}
+footer p{
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;   
+}
+.footer-text{
+    color: white;
+}
+#footer-bigtext-first{
+   font-family: 'Cookie', cursive;
+   font-size: 50px;
+   padding-top: 30px;
+}
+#footer-bigtext-last{
+    color: red;
+}
+#alone-header{
+    font-family: 'Cookie', cursive;
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 100px; 
+}
