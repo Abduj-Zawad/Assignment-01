@@ -22,7 +22,7 @@ body{
     border-image-slice: 1;
     padding-left: 10px;
 }
-.half-header{
+.half-header-text{
     color: orange;
 }
 .link-opener{
@@ -32,4 +32,43 @@ body{
     border-radius: 5px;
     color: white;
     font-weight: 400;
+}
+#my-mission-text{
+    text-align: center;
+    padding-bottom: 8px;
+}
+.vission-mission-goal{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 15px;
+    padding-bottom: 10%;
+    border-radius: 10px;
+}
+.vission-mission-goal p{
+    padding: 20px;
+}
+.vission-mission-goal h2{
+    padding: 20px;
+}
+#mission-part{
+   padding: 10px;
+    background-color: cornflowerblue;
+}
+#mission-part img{
+   width: 50%;
+}
+#vission-part{
+    padding: 10px;
+    background-color: wheat;
+}
+#vission-part img{
+   width: 50%;
+}
+#goal-part{
+    padding: 10px;
+    background-color: pink;
+}
+#goal-part img{
+   width: 50%;
 }
