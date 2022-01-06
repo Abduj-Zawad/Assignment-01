@@ -16,7 +16,7 @@ body{
 .massage-and-image img{
     width: 80%;
 }
-.fat-border{
+#fat-border{
     border-left: 4px solid;
     border-image: linear-gradient(red, orange);
     border-image-slice: 1;
